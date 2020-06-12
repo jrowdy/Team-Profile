@@ -1,7 +1,7 @@
 # Team-Profile
 -------------------
 ## User Input(Node CLI)
-![image](https://user-images.githubusercontent.com/58674083/84450375-ee48d100-ac1d-11ea-9213-1d22b4b8e9c9.png)
+![image](https://user-images.githubusercontent.com/58674083/84503650-985d4300-ac88-11ea-866b-e7859a74acbd.png)
 ## Output (HTML file)
 ![image](https://user-images.githubusercontent.com/58674083/84503517-5b914c00-ac88-11ea-8222-5d9678035dc6.png)
 
